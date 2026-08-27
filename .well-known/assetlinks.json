@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.titir95biplab_dotcom.twa",
-    "sha256_cert_fingerprints": ["6B:F6:30:A7:7D:D3:A5:64:9C:A7:0D:0B:3A:AA:EE:E8:09:B3:18:A9:C3:78:46:6D:F3:EC:7E:8E:0A:C8:B0:5E"]
+    "sha256_cert_fingerprints": [
+      "6B:F6:30:A7:7D:D3:A5:64:9C:A7:0D:0B:3A:AA:EE:E8:09:B3:18:A9:C3:78:46:6D:F3:EC:7E:8E:0A:C8:B0:5E",
+      "79:5D:60:6D:76:92:61:7C:DE:A9:2E:97:84:C6:ED:7D:8F:F9:2D:7A:B1:AF:81:55:51:34:C2:CE:B6:47:3C:89"
+    ]
   }
 }]
