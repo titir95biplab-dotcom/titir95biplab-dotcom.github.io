@@ -28,5 +28,15 @@
         "87:DE:A6:29:D1:CB:17:EA:AB:95:58:35:5A:84:B9:15:A5:FA:CC:05:71:D3:3B:A5:8A:3C:9B:B6:70:D6:7A:CF"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.titir95biplab_dotcom.jtrecipe.twa",
+      "sha256_cert_fingerprints": [
+        "D6:F3:73:B2:64:C1:CB:45:70:6C:67:59:44:ED:2A:68:04:3D:41:3C:CF:2F:DD:E2:B6:8C:19:89:EF:00:1C:52"
+      ]
+    }
   }
 ]
